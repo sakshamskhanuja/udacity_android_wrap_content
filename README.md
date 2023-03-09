@@ -20,7 +20,7 @@ The size of this ```TextView``` adjusts accordingly to its content.
 
 ### Screenshots
 
-| Device | Virtual | OS | API | Orientation |
-| --- | --- | --- | --- | --- |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Portrait](https://user-images.githubusercontent.com/122201501/223959729-92038e5a-55a7-4c4f-acd1-f3380ea42b85.png) |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Landscape](https://user-images.githubusercontent.com/122201501/223959731-25e2b652-9dcf-4301-bc5a-ad736b082f71.png) |
+| Device      | Virtual | OS        | API | Orientation                                                                                                         |
+|-------------|---------|-----------|-----|---------------------------------------------------------------------------------------------------------------------|
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Portrait](https://user-images.githubusercontent.com/122201501/223959729-92038e5a-55a7-4c4f-acd1-f3380ea42b85.png)  |
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Landscape](https://user-images.githubusercontent.com/122201501/223959731-25e2b652-9dcf-4301-bc5a-ad736b082f71.png) |
