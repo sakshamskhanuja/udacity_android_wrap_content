@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Wrap Content</string>
-    <string name="description">The width and height of this TextView adjusts accordingly to its content.</string>
+    <string name="description">The <b>width</b> and <b>height</b> of this TextView adjusts accordingly to its content.</string>
 </resources>
